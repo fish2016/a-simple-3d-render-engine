@@ -1,0 +1,34 @@
+﻿生成启动时间为 2013/9/29 21:00:43。
+     1>项目“E:\TechStudio\my_develop\d3d9_lib_prj\d3d9\d3d9\d3d9.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\d3d9.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         e:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\d3d9.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\src\GDISurface.cpp ..\src\rendersystem.cpp
+         rendersystem.cpp
+         GDISurface.cpp
+         正在生成代码...
+       Lib:
+         e:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"E:\TechStudio\my_develop\d3d9_lib_prj\d3d9\Debug\d3d9.lib" /NOLOGO Debug\camera.obj
+         Debug\d3d9.obj
+         Debug\GDISurface.obj
+         Debug\mathlib.obj
+         Debug\my_d3dx9math.obj
+         Debug\my_direct3ddevice_imp.obj
+         Debug\my_direct3dvertexbuffer_imp.obj
+         Debug\my_direct3d_imp.obj
+         Debug\perspect.obj
+         Debug\rendersystem.obj
+         Debug\screen.obj
+         Debug\stream.obj
+         Debug\world.obj
+         Debug\stdafx.obj
+         d3d9.vcxproj -> E:\TechStudio\my_develop\d3d9_lib_prj\d3d9\Debug\d3d9.lib
+       FinalizeBuildStatus:
+         正在删除文件“Debug\d3d9.unsuccessfulbuild”。
+         正在对“Debug\d3d9.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\TechStudio\my_develop\d3d9_lib_prj\d3d9\d3d9\d3d9.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.92
